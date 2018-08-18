@@ -1,2 +1,2 @@
 # My-Discord-Bot
-This is for my bot on Discord
+Print('This is for my bot on Discord')
